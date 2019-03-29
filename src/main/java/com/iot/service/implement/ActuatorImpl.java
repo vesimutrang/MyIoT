@@ -1,5 +1,7 @@
 package com.iot.service.implement;
 
-public class ActuatorImpl {
+import com.iot.service.ActuatorService;
+
+public class ActuatorImpl  implements ActuatorService{
 
 }
